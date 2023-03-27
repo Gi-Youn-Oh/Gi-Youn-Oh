@@ -18,12 +18,10 @@
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-Youn-Oh">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-Youn-Oh&layout=compact"> -->
+
 	<br>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=Gi-Youn-Oh">
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=Gi-Youn-Oh&show_icons=true"> -->
+
 </div>
 
 
