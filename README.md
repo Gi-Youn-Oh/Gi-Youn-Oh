@@ -19,7 +19,7 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <!-- 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
 	<br>
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gi-Youn-Oh&layout=compact">
