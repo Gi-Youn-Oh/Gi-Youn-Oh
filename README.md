@@ -12,13 +12,12 @@
 
 <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Zustand-F58320?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white" />
+	<div>
+ 	<img src="https://img.shields.io/badge/Zustand-F58320?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
-	<img src="https://img.shields.io/badge/Next-000000?style=flat&logo=Next.js&logoColor=white" />
-	<div>
-	<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=TailwindCSS&logoColor=white" />
 	</div>
 	<br>
